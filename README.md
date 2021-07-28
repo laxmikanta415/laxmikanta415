@@ -2,6 +2,7 @@
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning webGL
 - 💞️ Always interested in collaborating in exciting projects as a full stack dev { Node JS, express, GraphQL, NEST JS, React, Vue, Angular, Postgres, Mongodb }
+- Open to collaborate on open source project as well
 - 📫 How to reach me laxmikantaql415@gmail.com
 
 <!---
