@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning webGL
 - 💞️ Always interested in collaborating in exciting projects as a full stack dev { Node JS, express, GraphQL, NEST JS, React, Vue, Angular, Postgres, Mongodb, GCP }
 - Open to collaborate on open source project as well
-- 📫 Always looking for new exciting collaboration, [contact me by email](mailto:laxmikantaql415@gmail.com) or hire via [Upwork](https://www.upwork.com/freelancers/~0166e85a566e5f6fab).
+- 📫 Always looking for new exciting collaboration, [contact me by email](mailto:laxmikantaql415@gmail.com)
+
 
 🏆 <b>GitHub Awards</b>
 
