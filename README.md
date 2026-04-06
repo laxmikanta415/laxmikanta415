@@ -1,17 +1,13 @@
-<b>About Me</b>
-- 👋 Hi, I’m @laxmikanta415
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning webGL
-- 💞️ Always interested in collaborating in exciting projects as a full stack dev { Node JS, express, GraphQL, NEST JS, React, Vue, Angular, Postgres, Mongodb, GCP }
-- Open to collaborate on open source project as well
-- 📫 Always looking for new exciting collaboration, [contact me by email](mailto:laxmikantaql415@gmail.com)
+### Laxmikanta Nayak
+ 
+Full-stack engineer. I build and ship SaaS products — mostly with Next.js, TypeScript, Supabase, and Python. AI and RAG pipelines have been a big part of my work lately.
+ 
+Also teach full-stack development to postgrad students in India.
+ 
+Currently:
+- Exploring LangGraph, multi-agent systems, and MCP
+- Building personal tools on top of these to learn faster and work better
 
+Always up for collaborating on something genuinely interesting — side projects, open source, or just a good idea that needs building :-) 
 
-🏆 <b>GitHub Awards</b>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=laxmikanta415)
-<!---
-laxmikanta415/laxmikanta415 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-Made with ❤️ by Laxmikanta Nayak
+Available for freelance work → [Upwork](https://www.upwork.com/freelancers/YOUR_PROFILE) · [Email](mailto:laxmikantaql415@gmail.com)
