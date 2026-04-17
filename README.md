@@ -1,6 +1,6 @@
 ### Laxmikanta Nayak
  
-Full-stack engineer. I build and ship SaaS products — mostly with Next.js, TypeScript, Supabase, and Python. AI and RAG pipelines have been a big part of my work lately. Built: [Raxpy](github.com/laxmikanta415/ragxpy)
+Full-stack engineer. I build and ship SaaS products — mostly with Next.js, TypeScript, Supabase, and Python. AI and RAG pipelines have been a big part of my work lately. Built: [ragwise](https://github.com/laxmikanta415/ragwise))
  
 Also teach full-stack development to postgrad students in India.
  
